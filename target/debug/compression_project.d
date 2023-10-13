@@ -1,1 +1,1 @@
-C:\RUST\RUST\compression_project\target\debug\compression_project.exe: C:\RUST\RUST\compression_project\src\filling.rs C:\RUST\RUST\compression_project\src\main.rs C:\RUST\RUST\compression_project\src\random.rs
+D:\Data2\GitHub\ Repositories\File_Compression\target\debug\compression_project.exe: D:\Data2\GitHub\ Repositories\File_Compression\src\filling.rs D:\Data2\GitHub\ Repositories\File_Compression\src\main.rs D:\Data2\GitHub\ Repositories\File_Compression\src\random.rs
